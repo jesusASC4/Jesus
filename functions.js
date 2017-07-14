@@ -1,6 +1,6 @@
 function welloHorld(){
-    return "wello, Horld");
     console.log("wello, Horld");
+    return "wello, Horld";
 }
 
 welloHorld();

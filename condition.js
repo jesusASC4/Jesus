@@ -10,8 +10,3 @@ else if (level>50){
 else {console.log("long way to go");
 }
 
-
-
-var userchoice = "r"
-var choices = ["r","p","r"];
-var compchoice = choices{Math
